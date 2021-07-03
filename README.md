@@ -1,13 +1,5 @@
 
-# MARATONA DISCOVER - DevFinance [<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="35" Title="JavaScript" align='right'>][<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="25" Title="CSS" align='right'>][<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="35" Title="HTML" align='right'>]
-
-
-<!-- 
-<img src="media/ptrsc(1).jpeg" width="20%"> <img src="media/ptrsc(2).jpeg" width="20%">
-<img src="media/ptrsc(3).jpeg" width="20%"> <img src="media/ptrsc(4).jpeg" width="20%">
-<img src="media/ptrsc(5).jpeg" width="20%"> <img src="media/ptrsc(6).jpeg" width="20%">
-<img src="media/ptrsc(7).jpeg" width="20%"> <img src="media/view(2).gif" width="20%">
- -->
+<img src="projeto/assets/logo.svg" >
 
 ## About the project
 
