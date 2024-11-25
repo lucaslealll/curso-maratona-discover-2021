@@ -1,7 +1,5 @@
 <img src="assets/logo.svg" >
 
-https://lucasoal.github.io/web-course-MaratonaDiscover2021/
-
 ## About the project
 
 The idea of the App is:
@@ -24,7 +22,7 @@ Feel free to use it as a study and make improvements.
 
 If you want to test the application, click the button below:
 
-[Download the Repositorie](https://github.com/lucasoal/maratona-discover-2021/archive/refs/heads/master.zip)
+[Download the Repositorie](https://github.com/lucaslealll/curso-maratona-discover-2021/archive/refs/heads/master.zip)
 
 
 ## Functionalities
