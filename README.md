@@ -14,7 +14,7 @@ This project aimed to learn and start studies on **FrontEnd** development, learn
 
 Send me an email: lucasomarandradeleal@gmail.com
 
-Connect to my [Linkedin](https://linkedin.com/in/lucasomarandradeleal)
+Connect to my [Linkedin](https://linkedin.com/in/lucasleall)
 
 Feel free to use it as a study and make improvements.
 
